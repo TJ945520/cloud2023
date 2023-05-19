@@ -8,9 +8,11 @@ spring:
       server:
         git:
           uri: git@github.com:TJ945520/Cloud2023-config.git  #填写你自己的github路径
+#          uri: git@gitee.com:inthefuture12/springcloud-config.git
           #搜索目录
           search-paths:
-            - Cloud2023-config
+#            - Cloud2023-config
+            - springcloud-config
       #读取分支
       label: master
 
