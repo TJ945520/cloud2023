@@ -11,8 +11,8 @@ spring:
 #          uri: git@gitee.com:inthefuture12/springcloud-config.git
           #搜索目录
           search-paths:
-#            - Cloud2023-config
-            - springcloud-config
+            - Cloud2023-config
+#            - springcloud-config
       #读取分支
       label: master
 
